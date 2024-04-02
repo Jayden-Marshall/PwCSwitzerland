@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-During my tenure in the cybersecurity program with PwC Switzerland, I explored various cybersecurity facets. From analyzing threat intelligence to conducting thorough risk assessments, I actively engaged in safeguarding digital assets. Working alongside seasoned professionals, I refined my skills in integrated defense strategies and deepened my understanding of cybersecurity risk management. Through hands-on experiences and interactive workshops, I gained valuable insights into the evolving cybersecurity landscape, fostering both personal and professional growth in the field.
+During my experience in the cybersecurity program with PwC Switzerland, I explored various cybersecurity facets. From analyzing threat intelligence to conducting thorough risk assessments, I actively engaged in safeguarding digital assets. Working alongside seasoned professionals, I refined my skills in integrated defense strategies and deepened my understanding of cybersecurity risk management. Through hands-on experiences and interactive workshops, I gained valuable insights into the evolving cybersecurity landscape, fostering both personal and professional growth in the field.
 
 <b> **Skills Gained:** 
 - Risk Management Frameworks
