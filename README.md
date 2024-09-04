@@ -26,6 +26,8 @@ During my experience in the cybersecurity program with PwC Switzerland, I explor
 
 <h3> <a href="https://github.com/Jayden-Marshall/Mastercard/files/14830757/PwC.Virtual.Case.Experience.Cybersecurity.-.Model.Work.Task.4.pptx"</a> Network Segmentation Presentation Download File </h3>
 
+“Students engage in tasks that mirror the everyday duties at top companies,offering a true reflection of the job market and helping students acquire skills that align with their career goals.” - Yale Office of Career Strategy
+
 **Certification of Completion:**
 <img src="https://github.com/Jayden-Marshall/PwCSwitzerland/assets/145166234/cc43bb6a-5616-4f86-84d7-ecb024fa5769" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
